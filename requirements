@@ -1,0 +1,4 @@
+- Python 3.6 or later
+- Libraries:
+  - `tkinter` (built-in with Python)
+  - `fuzzywuzzy`
