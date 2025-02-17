@@ -1,4 +1,4 @@
-# Sinhala Grammar and Spell Checker(2020/E/173 , 2020/E/204)
+# Sinhala Grammar and Spell Checker
 
 This repository contains a Python-based Sinhala Grammar and Spell Checker application. It uses Tkinter for the graphical user interface (GUI) and fuzzy string matching to provide spelling suggestions and grammar corrections. The tool processes Sinhala text input to check for spelling errors and apply grammar rules for improved accuracy and readability.
 
